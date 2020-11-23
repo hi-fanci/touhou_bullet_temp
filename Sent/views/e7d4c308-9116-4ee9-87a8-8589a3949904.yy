@@ -1,0 +1,30 @@
+{
+    "id": "e7d4c308-9116-4ee9-87a8-8589a3949904",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "e7d4c308-9116-4ee9-87a8-8589a3949904",
+    "children": [
+        "745f3c5b-e283-49b6-8b44-476ffcfd0709",
+        "009f6d1c-3f49-4c55-85c6-00ff9fc63b1d",
+        "00f17e7a-f5b6-4908-b6c6-8fa5a1a10bf9",
+        "7f6e90e8-30c0-4a73-b942-88d65f8de9cd",
+        "4fac429e-b0a3-468c-ad10-dd458e7b8829",
+        "e598ca95-7cb9-4ee9-a71c-e6522bbd63b6",
+        "6aa49fe4-abb3-48a1-9d94-f500c5acc22b",
+        "af74bf00-e8cd-48dd-afa8-42f3ee04c13b",
+        "e4343d80-c08e-411b-a50b-1d21166a2f13",
+        "b141ca05-4550-4598-89f8-96b562e5f213",
+        "3c846be5-24d2-4510-bc84-ac46c7807ffb",
+        "b3df9a39-7666-412d-ab16-bd23f317877e",
+        "4c7bd032-21c9-4879-9627-ab45670e13cb",
+        "e29de033-584f-4f83-9d9f-e1577583bb00",
+        "bcd61ab5-7ba6-40b7-b20c-0d13382db3ec",
+        "8c4c4afb-e50f-4f6a-84c5-23830f697f71",
+        "9aee7bd9-20f5-465b-a548-930b45d79bff",
+        "7f715221-8c62-4f11-b537-2525f416b33a"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Bullets",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

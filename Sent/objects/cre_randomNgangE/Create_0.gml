@@ -1,0 +1,10 @@
+times = 2 + global.EWave;
+_return_min = 0;
+_waveCreate = 1;
+maxtimetoCreate = 32;
+timetoCreate = maxtimetoCreate;
+_xx = irandom(2);
+min_y1 = 48;
+min_y2 = 16;
+_y1 = min_y1;
+_y2 = min_y2;
